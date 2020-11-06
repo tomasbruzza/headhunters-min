@@ -1,0 +1,26 @@
+body
+    > div
+    > div
+    > section.bg-color-light.p-relative.z-index-2
+    > div
+    > div
+    > div:nth-child(1)
+    > div
+    > div
+    > h4 {
+    text-align: center;
+}
+
+body
+    > div
+    > div
+    > section.bg-color-light.p-relative.z-index-2
+    > div
+    > div
+    > div
+    > div
+    > div
+    img {
+    height: 300px;
+    width: 300px;
+}
